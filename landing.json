@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "title": "IBM i Managed on Power Virtual Server",
+  "introduction": "IBM i Managed on Power Virtual Server (PowerVS) is a cloud offering where IBM hosts and manages IBM i LPARs (Virtual Servers) on IBM Cloud.",
+  "console_page": "/catalog/services/ibm-i-managed-on-power-virtual-server",
+  "section_topics": {
+    "links": [
+      {
+        "title": "About IBM i Managed on Power Virtual Server",
+        "href": "/docs/ibmi-managed-powervs?topic=ibmi-managed-powervs-overview"
+      },
+      {
+        "title": "Provisioning an instance",
+        "href": "/docs/ibmi-managed-powervs?topic=ibmi-managed-powervs-provisioning"
+      },
+      {
+        "title": "Managing access",
+        "href": "/docs/ibmi-managed-powervs?topic=ibmi-managed-powervs-access"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+toc:
+  properties:
+    subcollection: ibmi-managed-powervs
+    service-name: managed-powervs
+    category: compute
+    audience: service
+    href: /docs/ibmi-managed-powervs
+    path: ibmi-managed-powervs
+    label: IBM i Managed on Power Virtual Server
+  entries:
+    - navgroup:
+        id: learn
+        topics:
+          - index.md
+          - raci.md
+    - navgroup:
+        id: howto
+        topics:
+          - provisioning.md
+          - connect.md
+          - access.md
+    - navgroup:
+        id: help
+        topics:
+          - support.md
+          - faqs.md
