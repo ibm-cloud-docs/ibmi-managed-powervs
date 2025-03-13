@@ -1,7 +1,7 @@
 ---
 copyright:
-  years: 2024, 2024
-lastupdated: "2024-10-20"
+  years: 2024, 2025
+lastupdated: "2025-03-13"
 
 subcollection: ibmi-managed-powervs
 ---
@@ -42,7 +42,7 @@ Select from a list of optional services if desired:
 - **Disaster Recovery Environment**: Select if you would like the IBM i instance to be configured to replicate data to another IBM i instance (located in another region).
 - **Multi-Factor Authentication**: Allows for additional authentication method when logging into an IBM i instance.
 - **Network/Connectivity**: This service provides management of network connectivity to on-prem via private Direct Links.
-- **FalconStor Backup**: Enhances backup operation by using FalconStor Backup.
+- **FalconStor Backup**: Enhances backup operation by using FalconStor Backup
 
 
 
